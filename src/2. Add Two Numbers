@@ -1,0 +1,19 @@
+You are given two non-empty linked lists representing two non-negative integers. The digits are stored in reverse order and each of their nodes contain a single digit. Add the two numbers and return it as a linked list.
+
+You may assume the two numbers do not contain any leading zero, except the number 0 itself.
+
+Example:
+
+Input: (2 -> 4 -> 3) + (5 -> 6 -> 4)
+Output: 7 -> 0 -> 8
+Explanation: 342 + 465 = 807.
+
+
+1. Convert the list into integer, calculate and convert back
+error: when the list is too big for the int type
+solution: use long type
+error: when the list is too big for the long type
+
+2. Traverse two list at the same time and update result list
+error: when the list are exhausted, while addOne is still available
+solution: add addOne as condition of while loop
