@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e28e80d-21cc-4017-9d40-e77970061fc5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/[448]Find All Numbers Disappeared in an Array.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[985]Sum of Even Numbers After Queries.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/leetcode-plugin/en/[985]Sum of Even Numbers After Queries.java" beforeDir="false" afterPath="$PROJECT_DIR$/temp/leetcode-plugin/en/[985]Sum of Even Numbers After Queries.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/leetcode-plugin/en/all.json" beforeDir="false" afterPath="$PROJECT_DIR$/temp/leetcode-plugin/en/all.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,27 +19,18 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/temp/leetcode-plugin/en/[1089]Duplicate Zeros.java">
+        <entry file="file://$PROJECT_DIR$/temp/leetcode-plugin/en/[448]Find All Numbers Disappeared in an Array.java">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/temp/leetcode-plugin/en/[888]Fair Candy Swap.java">
+        <entry file="file://$PROJECT_DIR$/src/[448]Find All Numbers Disappeared in an Array.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="77" column="20" selection-start-line="77" selection-start-column="20" selection-end-line="77" selection-end-column="20" />
+            <state relative-caret-position="201">
+              <caret line="23" column="12" lean-forward="true" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
               <folding>
-                <element signature="e#0#1370#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/[888]Fair Candy Swap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="62" selection-start-line="62" selection-end-line="77" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -83,12 +74,21 @@
         <option value="$PROJECT_DIR$/src/[1089]Duplicate Zeros.java" />
         <option value="$PROJECT_DIR$/src/[888]Fair Candy Swap.java" />
         <option value="$PROJECT_DIR$/temp/leetcode-plugin/en/[888]Fair Candy Swap.java" />
+        <option value="$PROJECT_DIR$/src/[1013]Partition Array Into Three Parts With Equal Sum.java" />
+        <option value="$PROJECT_DIR$/temp/leetcode-plugin/en/[1013]Partition Array Into Three Parts With Equal Sum.java" />
+        <option value="$PROJECT_DIR$/src/[896]Monotonic Array.java" />
+        <option value="$PROJECT_DIR$/temp/leetcode-plugin/en/[896]Monotonic Array.java" />
+        <option value="$PROJECT_DIR$/src/[485]Max Consecutive Ones.java" />
+        <option value="$PROJECT_DIR$/temp/leetcode-plugin/en/[485]Max Consecutive Ones.java" />
+        <option value="$PROJECT_DIR$/src/[283]Move Zeroes.java" />
+        <option value="$PROJECT_DIR$/temp/leetcode-plugin/en/[283]Move Zeroes.java" />
+        <option value="$PROJECT_DIR$/src/[448]Find All Numbers Disappeared in an Array.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="496" />
-    <option name="y" value="193" />
+    <option name="x" value="416" />
+    <option name="y" value="199" />
     <option name="width" value="1458" />
     <option name="height" value="810" />
   </component>
@@ -114,7 +114,7 @@
               <item name="LeetCodePractice" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCodePractice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="[888]Fair Candy Swap.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="[448]Find All Numbers Disappeared in an Array.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
             <path>
               <item name="LeetCodePractice" type="b2602c69:ProjectViewProjectNode" />
@@ -138,8 +138,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -222,33 +222,58 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="429" y="159" width="1458" height="810" extended-state="0" />
+    <frame x="416" y="199" width="1458" height="810" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="UI Designer" order="0" />
       <window_info id="Favorites" order="1" side_tool="true" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="3" visible="true" weight="0.18271954" />
+      <window_info active="true" content_ui="combo" id="Project" order="3" visible="true" weight="0.1855524" />
       <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" />
-      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5311615" side_tool="true" visible="true" weight="0.31277534" />
-      <window_info anchor="bottom" id="Messages" order="2" sideWeight="0.4975097" weight="0.32937366" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5334809" side_tool="true" weight="0.2300216" />
+      <window_info anchor="bottom" id="Messages" order="2" sideWeight="0.4969563" weight="0.32937366" />
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.4688385" visible="true" weight="0.31277534" />
-      <window_info anchor="bottom" id="Debug" order="7" sideWeight="0.47537354" weight="0.38552916" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.4665191" visible="true" weight="0.3113069" />
+      <window_info anchor="bottom" id="Debug" order="7" sideWeight="0.47371334" weight="0.1911447" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="10" />
       <window_info anchor="right" id="Palette&#9;" order="0" />
       <window_info anchor="right" id="Maven" order="1" />
-      <window_info anchor="right" id="leetcode" order="2" side_tool="true" visible="true" weight="0.22946176" />
+      <window_info anchor="right" id="leetcode" order="2" side_tool="true" visible="true" weight="0.17917848" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="4" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="5" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info id="UI Designer" order="0" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="3" visible="true" weight="0.1449917" />
+      <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5334809" side_tool="true" visible="true" weight="0.2300216" />
+      <window_info anchor="bottom" id="Messages" order="2" sideWeight="0.4969563" weight="0.32937366" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" sideWeight="0.4665191" visible="true" weight="0.2300216" />
+      <window_info anchor="bottom" id="Debug" order="7" sideWeight="0.47371334" weight="0.2613391" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Palette&#9;" order="0" />
+      <window_info anchor="right" id="Maven" order="1" />
+      <window_info anchor="right" id="leetcode" order="2" side_tool="true" visible="true" weight="0.1793027" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="4" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="5" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Day 1" />
@@ -268,16 +293,7 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/temp/leetcode-plugin/en/[2]Add Two Numbers238952149.java" />
-    <entry file="file://$PROJECT_DIR$/src/[2]Add Two Numbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="23" selection-start-line="23" selection-end-line="83" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#3087#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/[2]Add Two Numbers.java" />
     <entry file="file://$PROJECT_DIR$/src/2. Add Two Numbers">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
@@ -285,16 +301,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/[3]Longest Substring Without Repeating Characters.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="36" selection-start-line="36" selection-end-line="58" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#777#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/[3]Longest Substring Without Repeating Characters.java" />
     <entry file="file://$PROJECT_DIR$/temp/leetcode-plugin/en/[2]Add Two Numbers.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="423">
@@ -309,23 +316,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
-          <folding>
-            <element signature="e#114#115#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/[832]Flipping an Image.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="53">
-          <caret line="34" selection-start-line="34" selection-end-line="48" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/[832]Flipping an Image.java" />
     <entry file="file://$PROJECT_DIR$/temp/leetcode-plugin/en/[832]Flipping an Image.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="423">
@@ -336,40 +328,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/[905]Sort Array By Parity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="37" column="13" lean-forward="true" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#532#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/[977]Squares of a Sorted Array.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
-          <caret line="64" column="22" lean-forward="true" selection-start-line="34" selection-start-column="7" selection-end-line="64" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/[1051]Height Checker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="27" column="47" lean-forward="true" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/temp/leetcode-plugin/en/[1051]Height Checker.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/[922]Sort Array By Parity II.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="33" column="47" lean-forward="true" selection-start-line="33" selection-start-column="47" selection-end-line="33" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/[905]Sort Array By Parity.java" />
+    <entry file="file://$PROJECT_DIR$/src/[977]Squares of a Sorted Array.java" />
+    <entry file="file://$PROJECT_DIR$/src/[1051]Height Checker.java" />
+    <entry file="file://$PROJECT_DIR$/temp/leetcode-plugin/en/[1051]Height Checker.java" />
+    <entry file="file://$PROJECT_DIR$/src/[922]Sort Array By Parity II.java" />
     <entry file="file://$PROJECT_DIR$/temp/leetcode-plugin/en/[922]Sort Array By Parity II.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="768">
@@ -377,26 +340,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/[509]Fibonacci Number.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="55" column="22" lean-forward="true" selection-start-line="44" selection-start-column="8" selection-end-line="55" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#703#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/[1002]Find Common Characters.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="97">
-          <caret line="39" selection-start-line="39" selection-end-line="63" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/[509]Fibonacci Number.java" />
+    <entry file="file://$PROJECT_DIR$/src/[1002]Find Common Characters.java" />
     <entry file="file://$PROJECT_DIR$/temp/leetcode-plugin/en/[977]Squares of a Sorted Array.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="505">
@@ -418,13 +363,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/[867]Transpose Matrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="36" selection-start-line="36" selection-end-line="42" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/[867]Transpose Matrix.java" />
     <entry file="file://$PROJECT_DIR$/temp/leetcode-plugin/en/[867]Transpose Matrix.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -432,13 +371,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/[985]Sum of Even Numbers After Queries.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/[985]Sum of Even Numbers After Queries.java" />
     <entry file="file://$PROJECT_DIR$/temp/leetcode-plugin/en/[985]Sum of Even Numbers After Queries.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="186">
@@ -453,20 +386,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/temp/leetcode-plugin/en/[1002]Find Common Characters.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="672">
-          <caret line="60" column="20" selection-start-line="60" selection-start-column="20" selection-end-line="60" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/[766]Toeplitz Matrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="696">
-          <caret line="79" column="20" lean-forward="true" selection-start-line="54" selection-start-column="8" selection-end-line="79" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/[766]Toeplitz Matrix.java" />
     <entry file="file://$PROJECT_DIR$/temp/leetcode-plugin/en/[766]Toeplitz Matrix.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="696">
@@ -481,36 +401,91 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/[566]Reshape the Matrix.java">
+    <entry file="file://$PROJECT_DIR$/src/[566]Reshape the Matrix.java" />
+    <entry file="file://$PROJECT_DIR$/src/[1089]Duplicate Zeros.java" />
+    <entry file="file://$PROJECT_DIR$/src/[888]Fair Candy Swap.java" />
+    <entry file="file://$PROJECT_DIR$/temp/leetcode-plugin/en/[888]Fair Candy Swap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="49" selection-start-line="49" selection-end-line="65" selection-end-column="9" />
+        <state relative-caret-position="370">
+          <caret line="77" column="20" selection-start-line="77" selection-start-column="20" selection-end-line="77" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/temp/leetcode-plugin/en/[1089]Duplicate Zeros.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/[1089]Duplicate Zeros.java">
+    <entry file="file://$PROJECT_DIR$/src/[1013]Partition Array Into Three Parts With Equal Sum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="35" selection-start-line="35" selection-end-line="48" selection-end-column="9" />
+        <state relative-caret-position="13">
+          <caret line="44" selection-start-line="44" selection-end-line="58" selection-end-column="80" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/[888]Fair Candy Swap.java">
+    <entry file="file://$PROJECT_DIR$/src/[896]Monotonic Array.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="62" selection-start-line="62" selection-end-line="77" selection-end-column="20" />
+        <state relative-caret-position="264">
+          <caret line="75" column="32" lean-forward="true" selection-start-line="75" selection-start-column="32" selection-end-line="75" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/temp/leetcode-plugin/en/[888]Fair Candy Swap.java">
+    <entry file="file://$PROJECT_DIR$/temp/leetcode-plugin/en/[1013]Partition Array Into Three Parts With Equal Sum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="77" column="20" selection-start-line="77" selection-start-column="20" selection-end-line="77" selection-end-column="20" />
+        <state relative-caret-position="432">
+          <caret line="58" column="80" selection-start-line="58" selection-start-column="80" selection-end-line="58" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp/leetcode-plugin/en/[1002]Find Common Characters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="639">
+          <caret line="60" column="20" selection-start-line="60" selection-start-column="20" selection-end-line="60" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp/leetcode-plugin/en/[896]Monotonic Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-264">
+          <caret line="68" column="27" lean-forward="true" selection-start-line="68" selection-start-column="27" selection-end-line="68" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/[485]Max Consecutive Ones.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="20" selection-start-line="20" selection-end-line="30" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp/leetcode-plugin/en/[485]Max Consecutive Ones.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="30" column="45" selection-start-line="30" selection-start-column="45" selection-end-line="30" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/[283]Move Zeroes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="17" selection-start-line="17" selection-end-line="26" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp/leetcode-plugin/en/[283]Move Zeroes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp/leetcode-plugin/en/[448]Find All Numbers Disappeared in an Array.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/[448]Find All Numbers Disappeared in an Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="23" column="12" lean-forward="true" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
           <folding>
-            <element signature="e#0#1370#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
