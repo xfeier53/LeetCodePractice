@@ -1,0 +1,30 @@
+//Given an array of integers where 1 ≤ a[i] ≤ n (n = size of array), some elements appear twice and others appear once.
+//
+// Find all the elements of [1, n] inclusive that do not appear in this array.
+//
+// Could you do it without extra space and in O(n) runtime? You may assume the returned list does not count as extra space.
+//
+// Example:
+//
+//Input:
+//[4,3,2,7,8,2,3,1]
+//
+//Output:
+//[5,6]
+//
+//
+Bad try:
+1. Add all numbers to the list, traverse and remove any number seen
+2. Use the sum of all numbers, find out the duplicate numbers, add the divided sum to the duplicate numbers, those are missed numbers, but it is still not a efficient one
+
+With bucket, it is a simple question
+Without extra space, there are two solutions
+1. Negation mark
+Traverse and negate the nums[nums[i]]
+Add any positive numbers to the list
+Use the array itself as a bucket, and mark by negating the number
+
+2. In place sort
+If nums[i] != i + 1 and nums[i] != nums[nums[i] - 1], then we swap nums[i] with nums[nums[i] - 1]
+If nums[i] != i + 1, then i + 1 is missing
+
