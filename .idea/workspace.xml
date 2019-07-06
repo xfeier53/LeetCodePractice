@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e28e80d-21cc-4017-9d40-e77970061fc5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/448. Find All Numbers Disappeared in an Array" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/743. Network Dealy Time" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/leetcode-plugin/en/[448]Find All Numbers Disappeared in an Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/temp/leetcode-plugin/en/[448]Find All Numbers Disappeared in an Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/leetcode-plugin/en/all.json" beforeDir="false" afterPath="$PROJECT_DIR$/temp/leetcode-plugin/en/all.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,26 +17,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/temp/leetcode-plugin/en/[448]Find All Numbers Disappeared in an Array.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="27" column="13" lean-forward="true" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/448. Find All Numbers Disappeared in an Array">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
-              <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -86,12 +67,15 @@
         <option value="$PROJECT_DIR$/src/[448]Find All Numbers Disappeared in an Array.java" />
         <option value="$PROJECT_DIR$/src/448. Find All Numbers Disappeared in an Array" />
         <option value="$PROJECT_DIR$/temp/leetcode-plugin/en/[448]Find All Numbers Disappeared in an Array.java" />
+        <option value="$PROJECT_DIR$/src/[743]Network Delay Time.java" />
+        <option value="$PROJECT_DIR$/temp/leetcode-plugin/en/[743]Network Delay Time.java" />
+        <option value="$PROJECT_DIR$/src/743. Network Dealy Time" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="593" />
-    <option name="y" value="149" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="255" />
+    <option name="y" value="177" />
     <option name="width" value="1458" />
     <option name="height" value="810" />
   </component>
@@ -222,17 +206,23 @@
       <option name="project" value="LOCAL" />
       <updated>1562024708271</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Day 5">
+      <created>1562073972193</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1562073972193</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
-    <editor active="true" />
+    <frame x="255" y="177" width="1458" height="810" extended-state="0" />
     <layout>
       <window_info id="UI Designer" order="0" />
       <window_info id="Favorites" order="1" side_tool="true" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="3" visible="true" weight="0.1449917" />
+      <window_info active="true" content_ui="combo" id="Project" order="3" visible="true" weight="0.18838526" />
       <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5334809" side_tool="true" weight="0.2300216" />
@@ -240,14 +230,14 @@
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" sideWeight="0.4665191" visible="true" weight="0.22894168" />
-      <window_info anchor="bottom" id="Debug" order="7" sideWeight="0.47371334" weight="0.31317493" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.4665191" visible="true" weight="0.18942732" />
+      <window_info anchor="bottom" id="Debug" order="7" sideWeight="0.47371334" weight="0.3488121" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="10" />
       <window_info anchor="right" id="Palette&#9;" order="0" />
       <window_info anchor="right" id="Maven" order="1" />
-      <window_info anchor="right" id="leetcode" order="2" side_tool="true" visible="true" weight="0.14001107" />
+      <window_info anchor="right" id="leetcode" order="2" side_tool="true" weight="0.14001107" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="4" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="5" weight="0.25" />
@@ -283,7 +273,8 @@
     <MESSAGE value="Day 1" />
     <MESSAGE value="Day 2" />
     <MESSAGE value="Day 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 4" />
+    <MESSAGE value="Day 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -293,11 +284,13 @@
           <properties />
           <option name="timeStamp" value="7" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/[448]Find All Numbers Disappeared in an Array.java</url>
-          <line>23</line>
-          <properties />
-          <option name="timeStamp" value="12" />
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/temp/leetcode-plugin/en/[743]Network Delay Time.java</url>
+          <line>30</line>
+          <properties class="Solution" method="networkDelayTime">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="20" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -418,20 +411,8 @@
     <entry file="file://$PROJECT_DIR$/temp/leetcode-plugin/en/[1089]Duplicate Zeros.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/[1013]Partition Array Into Three Parts With Equal Sum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13">
-          <caret line="44" selection-start-line="44" selection-end-line="58" selection-end-column="80" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/[896]Monotonic Array.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="75" column="32" lean-forward="true" selection-start-line="75" selection-start-column="32" selection-end-line="75" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/[1013]Partition Array Into Three Parts With Equal Sum.java" />
+    <entry file="file://$PROJECT_DIR$/src/[896]Monotonic Array.java" />
     <entry file="file://$PROJECT_DIR$/temp/leetcode-plugin/en/[1013]Partition Array Into Three Parts With Equal Sum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
@@ -453,13 +434,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/[485]Max Consecutive Ones.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="20" selection-start-line="20" selection-end-line="30" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/[485]Max Consecutive Ones.java" />
     <entry file="file://$PROJECT_DIR$/temp/leetcode-plugin/en/[485]Max Consecutive Ones.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
@@ -467,13 +442,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/[283]Move Zeroes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="17" selection-start-line="17" selection-end-line="26" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/[283]Move Zeroes.java" />
     <entry file="file://$PROJECT_DIR$/temp/leetcode-plugin/en/[283]Move Zeroes.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
@@ -495,27 +464,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/[448]Find All Numbers Disappeared in an Array.java">
+    <entry file="file://$PROJECT_DIR$/src/[448]Find All Numbers Disappeared in an Array.java" />
+    <entry file="file://$PROJECT_DIR$/temp/leetcode-plugin/en/[448]Find All Numbers Disappeared in an Array.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="21" selection-start-line="21" selection-end-line="32" selection-end-column="20" />
+        <state relative-caret-position="312">
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/448. Find All Numbers Disappeared in an Array">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/[743]Network Delay Time.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="34" selection-start-line="34" selection-end-line="113" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/temp/leetcode-plugin/en/[448]Find All Numbers Disappeared in an Array.java">
+    <entry file="file://$PROJECT_DIR$/temp/leetcode-plugin/en/[743]Network Delay Time.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="27" column="13" lean-forward="true" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        <state relative-caret-position="452">
+          <caret line="112" column="1" selection-start-line="28" selection-end-line="112" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/448. Find All Numbers Disappeared in an Array">
+    <entry file="file://$PROJECT_DIR$/src/743. Network Dealy Time">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+        <state relative-caret-position="237">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
         </state>
       </provider>
     </entry>
