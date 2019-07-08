@@ -1,0 +1,43 @@
+//Given an array of size n, find the majority element. The majority element is the element that appears more than ⌊ n/2 ⌋ times.
+//
+// You may assume that the array is non-empty and the majority element always exist in the array.
+//
+// Example 1:
+//
+//
+//Input: [3,2,3]
+//Output: 3
+//
+// Example 2:
+//
+//
+//Input: [2,2,1,1,1,2,2]
+//Output: 2
+
+My solution:
+Iterate the array and use HashMap to store the count
+Iterate the HashMap to find the majority
+
+Best Solution: O(n) time and O(1) space
+Boyer-Moore Majority Vote Algorithm
+Divide and conquer algorithm: It assume the majority always exist and its amount is bigger than n/2
+Traverse the array
+When count != 0, majority found
+When count == 0, nums[1:i] will not help to find the majority, it becomes sub-problem [i:n]
+Since the majority is more than n/2, the majority of the array will still be the majority of the sub-array
+
+public int majorityElement(int[] num) {
+
+    int major = num[0], count = 1;
+    for(int i = 1; i < num.length; i++){
+        if (count == 0) {
+            count++;
+            major = num[i];
+        } else if (major == num[i]) {
+            count++;
+        } else {
+            count--;
+        }
+    }
+    return major;
+}
