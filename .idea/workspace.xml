@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e28e80d-21cc-4017-9d40-e77970061fc5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/121. Best TIme to Buy and Sell Stock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/122. Best Time to Buy and Sell Stock II" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/167. Two Sum II - Input array is sorted" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/169. Majority Element" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/717. 1-bit and 2-bit Characters" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp/leetcode-plugin/en/all.json" beforeDir="false" afterPath="$PROJECT_DIR$/temp/leetcode-plugin/en/all.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[167]Two Sum II - Input array is sorted.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,12 +17,21 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/167. Two Sum II - Input array is sorted">
+        <entry file="file://$PROJECT_DIR$/src/717. 1-bit and 2-bit Characters">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="445">
-              <caret line="29" column="70" lean-forward="true" selection-start-line="29" selection-start-column="70" selection-end-line="29" selection-end-column="70" />
+            <state relative-caret-position="491">
+              <caret line="39" column="18" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/[717]1-bit and 2-bit Characters.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="48" column="11" selection-start-line="48" selection-start-column="11" selection-end-line="48" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -38,11 +44,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/temp/leetcode-plugin/en/[832]Flipping an Image.java" />
-        <option value="$PROJECT_DIR$/src/[905]Sort Array By Parity.java" />
-        <option value="$PROJECT_DIR$/temp/leetcode-plugin/en/[905]Sort Array By Parity.java" />
-        <option value="$PROJECT_DIR$/src/[977]Squares of a Sorted Array.java" />
-        <option value="$PROJECT_DIR$/temp/leetcode-plugin/en/[977]Squares of a Sorted Array.java" />
         <option value="$PROJECT_DIR$/src/[1051]Height Checker.java" />
         <option value="$PROJECT_DIR$/src/[922]Sort Array By Parity II.java" />
         <option value="$PROJECT_DIR$/temp/leetcode-plugin/en/[922]Sort Array By Parity II.java" />
@@ -87,16 +88,21 @@
         <option value="$PROJECT_DIR$/src/122. Best Time to Buy and Sell Stock II" />
         <option value="$PROJECT_DIR$/temp/leetcode-plugin/en/[122]Best Time to Buy and Sell Stock II.java" />
         <option value="$PROJECT_DIR$/src/[167]Two Sum II - Input array is sorted.java" />
-        <option value="$PROJECT_DIR$/temp/leetcode-plugin/en/[167]Two Sum II - Input array is sorted.java" />
         <option value="$PROJECT_DIR$/src/167. Two Sum II - Input array is sorted" />
+        <option value="$PROJECT_DIR$/temp/leetcode-plugin/en/[167]Two Sum II - Input array is sorted.java" />
+        <option value="$PROJECT_DIR$/src/[697]Degree of an Array.java" />
+        <option value="$PROJECT_DIR$/temp/leetcode-plugin/en/[697]Degree of an Array.java" />
+        <option value="$PROJECT_DIR$/src/[717]1-bit and 2-bit Characters.java" />
+        <option value="$PROJECT_DIR$/temp/leetcode-plugin/en/[717]1-bit and 2-bit Characters.java" />
+        <option value="$PROJECT_DIR$/src/717. 1-bit and 2-bit Characters" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="421" />
-    <option name="y" value="154" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="252" />
+    <option name="y" value="150" />
     <option name="width" value="1458" />
-    <option name="height" value="805" />
+    <option name="height" value="803" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -104,6 +110,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -120,7 +127,7 @@
               <item name="LeetCodePractice" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCodePractice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="[167]Two Sum II - Input array is sorted.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="[717]1-bit and 2-bit Characters.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
             <path>
               <item name="LeetCodePractice" type="b2602c69:ProjectViewProjectNode" />
@@ -145,7 +152,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -245,17 +251,23 @@
       <option name="project" value="LOCAL" />
       <updated>1562419397899</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Day 7">
+      <created>1562591710039</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1562591710039</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
-    <editor active="true" />
+    <frame x="252" y="150" width="1458" height="803" extended-state="0" />
     <layout>
       <window_info id="UI Designer" order="0" />
       <window_info id="Favorites" order="1" side_tool="true" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="3" visible="true" weight="0.14941892" />
+      <window_info active="true" content_ui="combo" id="Project" order="3" visible="true" weight="0.194051" />
       <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5334809" side_tool="true" weight="0.2300216" />
@@ -263,18 +275,19 @@
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" sideWeight="0.4665191" visible="true" weight="0.34557235" />
-      <window_info anchor="bottom" id="Debug" order="7" sideWeight="0.47371334" weight="0.4438445" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.4665191" weight="0.1958457" />
+      <window_info anchor="bottom" id="Debug" order="7" sideWeight="0.47371334" weight="0.35756677" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="10" />
       <window_info anchor="right" id="Palette&#9;" order="0" />
       <window_info anchor="right" id="Maven" order="1" />
-      <window_info anchor="right" id="leetcode" order="2" side_tool="true" visible="true" weight="0.10902048" />
+      <window_info anchor="right" id="leetcode" order="2" side_tool="true" weight="0.10902048" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="4" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="5" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="7" side_tool="true" weight="0.32982844" />
     </layout>
     <layout-to-restore>
       <window_info id="UI Designer" order="0" />
@@ -308,7 +321,8 @@
     <MESSAGE value="Day 4" />
     <MESSAGE value="Day 5" />
     <MESSAGE value="Day 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 6" />
+    <MESSAGE value="Day 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 7" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -319,10 +333,9 @@
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/[167]Two Sum II - Input array is sorted.java</url>
-          <line>23</line>
+          <url>file://$PROJECT_DIR$/src/[717]1-bit and 2-bit Characters.java</url>
           <properties />
-          <option name="timeStamp" value="30" />
+          <option name="timeStamp" value="45" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/temp/leetcode-plugin/en/[743]Network Delay Time.java</url>
@@ -334,13 +347,9 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="numbers[min] + numbers[max] != target" language="JAVA" />
-        <watch expression="numbers[min] + numbers[max]" language="JAVA" />
-        <watch expression="target" language="JAVA" />
-      </configuration>
-    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/LeetCodePractice$Solution.ic" NAME="Solution Coverage Results" MODIFIED="1562645750991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
@@ -382,23 +391,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/[922]Sort Array By Parity II.java" />
-    <entry file="file://$PROJECT_DIR$/temp/leetcode-plugin/en/[922]Sort Array By Parity II.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="768">
-          <caret line="60" column="40" lean-forward="true" selection-start-line="60" selection-start-column="40" selection-end-line="60" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/[509]Fibonacci Number.java" />
-    <entry file="file://$PROJECT_DIR$/src/[1002]Find Common Characters.java" />
-    <entry file="file://$PROJECT_DIR$/temp/leetcode-plugin/en/[977]Squares of a Sorted Array.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="505">
-          <caret line="64" column="22" selection-start-line="64" selection-start-column="22" selection-end-line="64" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/temp/leetcode-plugin/en/[905]Sort Array By Parity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="384">
@@ -540,28 +532,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/[169]Majority Element.java">
+    <entry file="file://$PROJECT_DIR$/src/[169]Majority Element.java" />
+    <entry file="file://$PROJECT_DIR$/src/[217]Contains Duplicate.java" />
+    <entry file="file://$PROJECT_DIR$/src/121. Best TIme to Buy and Sell Stock">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="14" selection-end-column="11" />
-          <folding>
-            <element signature="e#0#435#0" expanded="true" />
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="678">
+          <caret line="31" column="67" selection-start-line="31" selection-start-column="67" selection-end-line="31" selection-end-column="67" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/[217]Contains Duplicate.java">
+    <entry file="file://$PROJECT_DIR$/src/[121]Best Time to Buy and Sell Stock.java" />
+    <entry file="file://$PROJECT_DIR$/src/122. Best Time to Buy and Sell Stock II">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="288">
+          <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/temp/leetcode-plugin/en/[217]Contains Duplicate.java">
+    <entry file="file://$PROJECT_DIR$/src/[122]Best Time to Buy and Sell Stock II.java" />
+    <entry file="file://$PROJECT_DIR$/temp/leetcode-plugin/en/[1]Two Sum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+        <state relative-caret-position="288">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/[167]Two Sum II - Input array is sorted.java" />
+    <entry file="file://$PROJECT_DIR$/src/169. Majority Element">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="24" column="31" lean-forward="true" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -572,41 +572,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/121. Best TIme to Buy and Sell Stock">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="678">
-          <caret line="31" column="67" selection-start-line="31" selection-start-column="67" selection-end-line="31" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/[121]Best Time to Buy and Sell Stock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="77">
-          <caret line="26" selection-start-line="26" selection-end-line="45" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/temp/leetcode-plugin/en/[121]Best Time to Buy and Sell Stock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="45" column="25" selection-start-line="45" selection-start-column="25" selection-end-line="45" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/122. Best Time to Buy and Sell Stock II">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/[122]Best Time to Buy and Sell Stock II.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="35" selection-start-line="35" selection-end-line="41" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/temp/leetcode-plugin/en/[122]Best Time to Buy and Sell Stock II.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -614,31 +579,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/temp/leetcode-plugin/en/[1]Two Sum.java">
+    <entry file="file://$PROJECT_DIR$/temp/leetcode-plugin/en/[121]Best Time to Buy and Sell Stock.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        <state relative-caret-position="531">
+          <caret line="45" column="25" selection-start-line="45" selection-start-column="25" selection-end-line="45" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/temp/leetcode-plugin/en/[167]Two Sum II - Input array is sorted.java">
+    <entry file="file://$PROJECT_DIR$/temp/leetcode-plugin/en/[217]Contains Duplicate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="26" column="22" lean-forward="true" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/[167]Two Sum II - Input array is sorted.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="22" selection-start-line="22" selection-end-line="30" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/169. Majority Element">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="24" column="31" lean-forward="true" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
+        <state relative-caret-position="264">
+          <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -646,6 +597,42 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="445">
           <caret line="29" column="70" lean-forward="true" selection-start-line="29" selection-start-column="70" selection-end-line="29" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp/leetcode-plugin/en/[167]Two Sum II - Input array is sorted.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="573">
+          <caret line="52" column="5" lean-forward="true" selection-start-line="52" selection-start-column="5" selection-end-line="52" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/[697]Degree of an Array.java" />
+    <entry file="file://$PROJECT_DIR$/temp/leetcode-plugin/en/[697]Degree of an Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="69" column="23" selection-start-line="69" selection-start-column="23" selection-end-line="69" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp/leetcode-plugin/en/[717]1-bit and 2-bit Characters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="50" column="5" lean-forward="true" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/717. 1-bit and 2-bit Characters">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491">
+          <caret line="39" column="18" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/[717]1-bit and 2-bit Characters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="48" column="11" selection-start-line="48" selection-start-column="11" selection-end-line="48" selection-end-column="11" />
         </state>
       </provider>
     </entry>
